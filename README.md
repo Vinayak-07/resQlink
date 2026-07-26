@@ -2,6 +2,10 @@
 
 A school disaster preparedness app built with React Native and Expo. resQlink helps students and staff learn what to do during earthquakes, fires, and floods through drills, quizzes, and quick reference guides, instead of just reading a PDF nobody opens.
 
+## Background
+
+This was built as a submission for Smart India Hackathon (SIH), the Government of India's nationwide student hackathon under the Ministry of Education. Made it through the internal/institute round and cleared up to the district level before getting knocked out. Keeping the project alive and building on it anyway.
+
 ## Why this exists
 
 Most schools have a disaster management plan somewhere in a file, but very few students actually know what to do when something happens. resQlink tries to fix that by turning the standard "drop, cover, hold" style protocols into something people will actually engage with on their phone: short drill walkthroughs, quizzes, a timed go-bag packing game, and a directory of emergency numbers that dial out with one tap.
